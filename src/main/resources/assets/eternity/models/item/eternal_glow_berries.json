@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_glow_berries"
+                 },
+    "parent":  "minecraft:item/generated"
+}

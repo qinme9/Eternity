@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_pumpkin_pie"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_milk_bucket"
+                 },
+    "parent":  "minecraft:item/generated"
+}

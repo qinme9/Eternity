@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_beetroot_soup"
+                 },
+    "parent":  "minecraft:item/generated"
+}

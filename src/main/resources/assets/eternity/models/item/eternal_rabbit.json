@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_rabbit"
+                 },
+    "parent":  "minecraft:item/generated"
+}

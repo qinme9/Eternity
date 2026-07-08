@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/template_anvil",
+    "textures": {
+        "body": "eternity:block/eternal_anvil",
+        "top": "eternity:block/eternal_anvil_top"
+    }
+}

@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_suspicious_stew"
+                 },
+    "parent":  "minecraft:item/generated"
+}

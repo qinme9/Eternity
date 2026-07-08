@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_effect_instant_damage"
+                 },
+    "parent":  "minecraft:item/generated"
+}

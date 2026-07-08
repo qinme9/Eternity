@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_poisonous_potato"
+                 },
+    "parent":  "minecraft:item/generated"
+}

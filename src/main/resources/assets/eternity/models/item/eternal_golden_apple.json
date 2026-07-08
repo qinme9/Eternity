@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_golden_apple"
+                 },
+    "parent":  "minecraft:item/generated"
+}

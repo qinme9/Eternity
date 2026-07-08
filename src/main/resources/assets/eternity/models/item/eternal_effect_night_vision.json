@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_effect_night_vision"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_effect_raid_omen"
+                 },
+    "parent":  "minecraft:item/generated"
+}

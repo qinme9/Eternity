@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "eternity:item/eternal_cooked_cod"
+                 },
+    "parent":  "minecraft:item/generated"
+}
